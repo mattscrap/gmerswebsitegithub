@@ -9,7 +9,7 @@
   "NFT_NAME": "gmers",
   "SYMBOL": "gmers",
   "MAX_SUPPLY": 1337,
-  "WEI_COST": 00000000000000000,
+  "WEI_COST": 0,
   "DISPLAY_COST": 0.00,
   "GAS_LIMIT": 100000,
   "MARKETPLACE": "Opeansea",
